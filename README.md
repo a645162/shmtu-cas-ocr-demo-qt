@@ -15,7 +15,7 @@
 ### 各个操作系统运行测试
 
 ![Windows](./Docs/assets/Windows/qt_windows.png)
-![macOS](./Docs/assets/macOS/qmac.png)
+![macOS](./Docs/assets/macOS/mac.jpg)
 ![Linux](./Docs/assets/Linux/linux.png)
 
 ### macOS权重文件位置
