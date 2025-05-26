@@ -4,6 +4,24 @@
 
 本项目不再维护！
 
+## 截图
+
+### 各个操作系统主界面
+
+![Windows](./Docs/assets/Windows/qt_win_main.png)
+![macOS](./Docs/assets/macOS/qt_mac_main.png)
+![Linux](./Docs/assets/Linux/qt_linux_main.png)
+
+### 各个操作系统运行测试
+
+![Windows](./Docs/assets/Windows/qt_windows.png)
+![macOS](./Docs/assets/macOS/qmac.png)
+![Linux](./Docs/assets/Linux/linux.png)
+
+### macOS权重文件位置
+
+![macOS](./Docs/assets/macOS/mac_bundle.png)
+
 ## 技术栈
 
 - C++
